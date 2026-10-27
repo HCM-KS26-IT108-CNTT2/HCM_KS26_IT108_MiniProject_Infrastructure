@@ -1,0 +1,200 @@
+2026-10-27 08:00:41 [CRITICAL] [kernel] Out of memory: process killed
+2026-10-27 08:00:57 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:01:41 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/1524
+2026-10-27 08:02:19 [ERROR] [api] Failed to process request: timeout after 30s
+2026-10-27 08:02:25 [CRITICAL] [db-service] Database connection pool exhausted
+2026-10-27 08:03:01 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 08:03:16 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:03:17 [ERROR] [auth-service] Invalid token signature for user_id=7024
+2026-10-27 08:03:39 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:04:01 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 08:04:08 [ERROR] [mailer] Failed to send email to user9991@example.com
+2026-10-27 08:04:25 [ERROR] [worker] Job #8885 failed: NullPointerException
+2026-10-27 08:04:33 [DEBUG] [cache] Cache miss for key session_1391
+2026-10-27 08:05:09 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:05:33 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:05:36 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:05:42 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:06:07 [ERROR] [mailer] Failed to send email to user2764@example.com
+2026-10-27 08:06:31 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:07:16 [INFO] [app] Service started successfully
+2026-10-27 08:07:55 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/4110
+2026-10-27 08:08:06 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:08:47 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:09:31 [ERROR] [api] Failed to process request: timeout after 30s
+2026-10-27 08:09:46 [ERROR] [mailer] Failed to send email to user6672@example.com
+2026-10-27 08:10:04 [CRITICAL] [payment] Payment gateway unreachable, transactions halted
+2026-10-27 08:10:18 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:11:00 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:11:09 [CRITICAL] [kernel] Out of memory: process killed
+2026-10-27 08:11:47 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:12:13 [ERROR] [auth-service] Invalid token signature for user_id=8448
+2026-10-27 08:12:45 [CRITICAL] [db-service] Database connection pool exhausted
+2026-10-27 08:12:53 [CRITICAL] [auth-service] Authentication service crashed unexpectedly
+2026-10-27 08:13:37 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:14:02 [ERROR] [worker] Job #8769 failed: NullPointerException
+2026-10-27 08:14:19 [INFO] [app] Service started successfully
+2026-10-27 08:15:03 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/4471
+2026-10-27 08:15:45 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:16:13 [CRITICAL] [db-service] Database connection pool exhausted
+2026-10-27 08:16:30 [WARN] [api] Response time above threshold (2.4s)
+2026-10-27 08:17:03 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:17:44 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:17:54 [ERROR] [auth-service] Invalid token signature for user_id=8937
+2026-10-27 08:18:28 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:18:49 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:19:13 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:19:29 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:19:35 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:20:10 [ERROR] [auth-service] Invalid token signature for user_id=7887
+2026-10-27 08:20:46 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 08:21:00 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:21:20 [ERROR] [mailer] Failed to send email to user7277@example.com
+2026-10-27 08:21:54 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:22:09 [CRITICAL] [db-service] Database connection pool exhausted
+2026-10-27 08:22:47 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:23:02 [CRITICAL] [db-service] Database connection pool exhausted
+2026-10-27 08:23:17 [CRITICAL] [db-service] Database connection pool exhausted
+2026-10-27 08:23:39 [CRITICAL] [storage] Disk usage at 99%, no space left on device
+2026-10-27 08:23:57 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:24:32 [CRITICAL] [security] Multiple unauthorized root access attempts detected
+2026-10-27 08:24:48 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:25:01 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 08:25:24 [ERROR] [worker] Job #987 failed: NullPointerException
+2026-10-27 08:26:08 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:26:12 [ERROR] [mailer] Failed to send email to user1890@example.com
+2026-10-27 08:26:28 [CRITICAL] [security] Multiple unauthorized root access attempts detected
+2026-10-27 08:26:37 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:27:07 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:27:36 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/1704
+2026-10-27 08:27:40 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/341
+2026-10-27 08:27:46 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:27:57 [ERROR] [worker] Job #3602 failed: NullPointerException
+2026-10-27 08:28:23 [ERROR] [auth-service] Invalid token signature for user_id=6309
+2026-10-27 08:28:24 [INFO] [auth-service] User login successful
+2026-10-27 08:28:54 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/8073
+2026-10-27 08:29:04 [CRITICAL] [storage] Disk usage at 99%, no space left on device
+2026-10-27 08:29:08 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/1098
+2026-10-27 08:29:29 [CRITICAL] [security] Multiple unauthorized root access attempts detected
+2026-10-27 08:30:02 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/2679
+2026-10-27 08:30:06 [INFO] [app] Service started successfully
+2026-10-27 08:30:18 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:31:02 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:31:10 [WARN] [api] Response time above threshold (2.4s)
+2026-10-27 08:31:48 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:31:54 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:32:31 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:32:45 [ERROR] [mailer] Failed to send email to user4010@example.com
+2026-10-27 08:33:02 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:33:32 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:33:33 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:33:40 [CRITICAL] [storage] Disk usage at 99%, no space left on device
+2026-10-27 08:34:13 [ERROR] [mailer] Failed to send email to user1227@example.com
+2026-10-27 08:34:29 [ERROR] [auth-service] Invalid token signature for user_id=7279
+2026-10-27 08:35:04 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:35:46 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/5005
+2026-10-27 08:36:29 [CRITICAL] [auth-service] Authentication service crashed unexpectedly
+2026-10-27 08:36:46 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:37:22 [CRITICAL] [kernel] Out of memory: process killed
+2026-10-27 08:38:01 [CRITICAL] [payment] Payment gateway unreachable, transactions halted
+2026-10-27 08:38:15 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:38:48 [ERROR] [api] Failed to process request: timeout after 30s
+2026-10-27 08:38:54 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:38:57 [CRITICAL] [auth-service] Authentication service crashed unexpectedly
+2026-10-27 08:39:38 [WARN] [api] Response time above threshold (2.4s)
+2026-10-27 08:40:07 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:40:43 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:41:28 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/690
+2026-10-27 08:41:52 [ERROR] [auth-service] Invalid token signature for user_id=7141
+2026-10-27 08:42:01 [CRITICAL] [payment] Payment gateway unreachable, transactions halted
+2026-10-27 08:42:04 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:42:48 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:43:11 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:43:51 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:44:02 [WARN] [api] Response time above threshold (2.4s)
+2026-10-27 08:44:29 [CRITICAL] [payment] Payment gateway unreachable, transactions halted
+2026-10-27 08:44:56 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:45:14 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 08:45:39 [ERROR] [worker] Job #3744 failed: NullPointerException
+2026-10-27 08:45:52 [ERROR] [worker] Job #5828 failed: NullPointerException
+2026-10-27 08:46:12 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:46:27 [CRITICAL] [storage] Disk usage at 99%, no space left on device
+2026-10-27 08:46:53 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:47:11 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/6648
+2026-10-27 08:47:55 [INFO] [auth-service] User login successful
+2026-10-27 08:47:57 [CRITICAL] [kernel] Out of memory: process killed
+2026-10-27 08:48:09 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:48:12 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 08:48:35 [ERROR] [mailer] Failed to send email to user7249@example.com
+2026-10-27 08:49:14 [INFO] [app] Service started successfully
+2026-10-27 08:49:39 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:49:56 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 08:49:57 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/3328
+2026-10-27 08:50:21 [ERROR] [mailer] Failed to send email to user5243@example.com
+2026-10-27 08:51:04 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:51:37 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:51:58 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:52:34 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 08:53:17 [WARN] [api] Response time above threshold (2.4s)
+2026-10-27 08:53:57 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:54:33 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 08:54:52 [CRITICAL] [payment] Payment gateway unreachable, transactions halted
+2026-10-27 08:55:22 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:55:55 [ERROR] [auth-service] Invalid token signature for user_id=1489
+2026-10-27 08:56:14 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:56:36 [CRITICAL] [storage] Disk usage at 99%, no space left on device
+2026-10-27 08:57:20 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:57:30 [CRITICAL] [storage] Disk usage at 99%, no space left on device
+2026-10-27 08:58:01 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 08:58:31 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 08:58:44 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 08:59:16 [ERROR] [auth-service] Invalid token signature for user_id=190
+2026-10-27 08:59:23 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 08:59:35 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/7711
+2026-10-27 08:59:39 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 09:00:09 [CRITICAL] [security] Multiple unauthorized root access attempts detected
+2026-10-27 09:00:52 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/9855
+2026-10-27 09:01:13 [DEBUG] [cache] Cache miss for key session_8370
+2026-10-27 09:01:41 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/7405
+2026-10-27 09:01:52 [ERROR] [worker] Job #7473 failed: NullPointerException
+2026-10-27 09:02:09 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 09:02:43 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 09:03:01 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 09:03:17 [ERROR] [mailer] Failed to send email to user8949@example.com
+2026-10-27 09:03:23 [CRITICAL] [storage] Disk usage at 99%, no space left on device
+2026-10-27 09:03:48 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 09:03:53 [ERROR] [mailer] Failed to send email to user8990@example.com
+2026-10-27 09:04:23 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 09:04:50 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 09:05:35 [CRITICAL] [cluster] Node heartbeat lost, failover triggered
+2026-10-27 09:06:06 [CRITICAL] [payment] Payment gateway unreachable, transactions halted
+2026-10-27 09:06:26 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 09:07:01 [ERROR] [api] HTTP 404 Not Found on /api/v1/users/9983
+2026-10-27 09:07:16 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 09:07:44 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 09:08:06 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 09:08:17 [ERROR] [auth-service] Invalid token signature for user_id=8851
+2026-10-27 09:08:19 [ERROR] [scheduler] Task execution failed: permission denied
+2026-10-27 09:08:56 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 09:09:38 [ERROR] [worker] Job #3077 failed: NullPointerException
+2026-10-27 09:09:42 [ERROR] [mailer] Failed to send email to user3567@example.com
+2026-10-27 09:10:12 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 09:10:30 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 09:10:47 [ERROR] [worker] Job #417 failed: NullPointerException
+2026-10-27 09:11:22 [CRITICAL] [payment] Payment gateway unreachable, transactions halted
+2026-10-27 09:11:37 [ERROR] [api] Failed to process request: timeout after 30s
+2026-10-27 09:11:39 [WARN] [api] Response time above threshold (2.4s)
+2026-10-27 09:11:41 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 09:11:50 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 09:12:27 [DEBUG] [cache] Cache miss for key session_4298
+2026-10-27 09:12:51 [CRITICAL] [db-service] Cannot connect to primary database: connection refused
+2026-10-27 09:13:02 [INFO] [app] Service started successfully
+2026-10-27 09:13:40 [CRITICAL] [kernel] Out of memory: process killed
+2026-10-27 09:14:17 [ERROR] [upload] File upload failed: checksum mismatch
+2026-10-27 09:14:43 [WARN] [api] Response time above threshold (2.4s)
+2026-10-27 09:14:48 [ERROR] [db-service] Query failed: deadlock detected
+2026-10-27 09:14:55 [ERROR] [cache] Redis connection reset by peer
+2026-10-27 09:15:39 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 09:16:16 [ERROR] [mailer] Failed to send email to user8828@example.com
+2026-10-27 09:16:44 [ERROR] [api] HTTP 500 Internal Server Error on /api/v1/orders
+2026-10-27 09:17:17 [ERROR] [api] Failed to process request: timeout after 30s
